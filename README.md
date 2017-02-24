@@ -2,7 +2,6 @@
 =======
 27trees Coorg Homestay Website
 =================
-
 27trees is a holiday home in Coorg.
 ---------------
 
