@@ -819,6 +819,16 @@ body {
     font-family: fontawesome;
 }
 
+.contact-us-area2 li {
+    margin: 10px 0;
+}
+
+.contact-us-area2 {
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
 .recent-post-area > ul {
     padding-left: 5px;
 }
@@ -1050,7 +1060,7 @@ body {
 }
 
 .header-bennar-area-contact {
-    background: rgba(0, 0, 0, 0) url("img/bennar/contact-us.jpg") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/bennar/8.png") no-repeat scroll 0 0;
     padding: 150px 0 100px;
     text-align: center;
 }
@@ -1239,6 +1249,65 @@ body {
 }
 
 .all-room-one-inner-area .all-rooms-inner-odd-area .odd-area-content-section .view-room a:hover {
+    background: #1f83b1;
+}
+
+
+.all-room-one-inner-area1 {
+    padding: 60px 0;
+}
+
+.all-room-one-inner-area1 .all-rooms-inner-odd-area1 .odd-area-featured-image1 img {
+}
+
+.all-room-one-inner-area1 .all-rooms-inner-odd-area1 .odd-area-content-section1 {
+    text-align: center;
+    /*    padding: 125px 0;
+*/
+}
+
+.all-room-one-inner-area1 .all-rooms-inner-odd-area1 .odd-area-content-section1 h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    font-size: 24px;
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+
+.all-room-one-inner-area1 .all-rooms-inner-odd-area1 .odd-area-content-section1 p {
+    padding: 0 10px;
+}
+
+.all-room-one-inner-area1 .all-rooms-inner-odd-area1 .odd-area-content-section1 ul {
+    margin-bottom: 20px;
+}
+
+.all-room-one-inner-area1 .all-rooms-inner-odd-area1 .odd-area-content-section1 ul li {
+    display: inline-block;
+}
+
+.all-room-one-inner-area1 .all-rooms-inner-odd-area1 .odd-area-content-section1 ul li a {
+    display: block;
+    color: #666666;
+    width: 30px;
+    height: 30px;
+    transtion: all 0.3s ease 0s;
+    font-size: 20px;
+}
+
+.all-room-one-inner-area1 .all-rooms-inner-odd-area1 .odd-area-content-section1 ul li a:hover {
+    color: #29b6f6;
+}
+
+.all-room-one-inner-area1 .all-rooms-inner-odd-area1 .odd-area-content-section1 .view-room1 a {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #29b6f6;
+    transition: all 0.3s ease 0s;
+    color: #ffffff;
+}
+
+.all-room-one-inner-area1 .all-rooms-inner-odd-area1 .odd-area-content-section1 .view-room1 a:hover {
     background: #1f83b1;
 }
 
@@ -2425,4 +2494,11 @@ label.required em {
     transition: all 0.3s ease 0s;
     border: 0px;
     width: 100%;
+}
+.tariff-heading{
+    color: red;
+    font-weight: 600;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: initial;
 }
