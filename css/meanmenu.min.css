@@ -161,7 +161,7 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-bar::after {
-    background: transparent url("../img/mobile-logo.png") no-repeat scroll 0 0;
+    background: transparent url("../img/mobile-logo1.png") no-repeat scroll 0 0;
     color: #ffffff;
     content: ".";
     font-size: 40px;
