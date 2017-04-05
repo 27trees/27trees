@@ -239,7 +239,7 @@ body {
     transition: all 0.3s ease 0s;
     z-index: 99999;
     padding: 0 0px;
-    width: 150px;
+    width: 90px;
     background: #333333;
 }
 
@@ -294,7 +294,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     padding: 15px 10px;
     transition: all 0.3s ease 0s;
-    font-size: 12px;
+    font-size: 14px;
     width: 150px;
 }
 
