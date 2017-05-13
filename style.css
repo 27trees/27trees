@@ -1060,7 +1060,7 @@ body {
 }
 
 .header-bennar-area-contact {
-    background: rgba(0, 0, 0, 0) url("img/bennar/8.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/bennar/contact-us.jpg") no-repeat scroll 0 0;
     padding: 150px 0 100px;
     text-align: center;
 }
@@ -1104,7 +1104,7 @@ body {
 }
 
 .header-bennar-area1 {
-    background: rgba(0, 0, 0, 0) url("img/bennar/8.jpg") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/bennar/experience.jpg") no-repeat scroll 0 0;
     padding: 150px 0 100px;
     text-align: center;
 }
@@ -1169,7 +1169,27 @@ body {
     margin-bottom: 0;
 }
 
+.header-bennar-area10 {
+    background: rgba(0, 0, 0, 0) url("img/bennar/gallery.jpg") no-repeat scroll 0 0;
+    padding: 150px 0 100px;
+    text-align: center;
+}
 
+.header-bennar-area10 .bennar-content h2 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 60px;
+}
+
+.header-bennar-area10 .bennar-content p {
+    color: #ffffff;
+    font-size: 15px;
+    margin-bottom: 0;
+}
 /*-------------------------------------13.Breadcump Area Start Here ---------------------------------------*/
 
 .breadcumb-area {
